@@ -746,6 +746,6 @@ int main() {
   print_arvore(raiz);
 
   raiz = delete (raiz, 5);
-  printf("After deleting 5:\n");
+  printf("Depois de deletar o 5 \n");
   print_arvore(raiz);
 }
