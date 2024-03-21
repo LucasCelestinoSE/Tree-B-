@@ -1,4 +1,3 @@
-// Deletion operation on a B+ Tree in C++
 
 #include "Bmais.h"
 #include <stdbool.h>
